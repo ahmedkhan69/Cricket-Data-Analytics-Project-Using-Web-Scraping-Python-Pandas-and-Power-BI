@@ -1,7 +1,8 @@
 # Cricket-Data-Analytics-Project-Using-Web-Scraping-Python-Pandas-and-Power-BI
 ![logo](cricket.jpeg)
 
-#Project Overview
+# Project Overview
+
 In this project, I have worked on analyzing data from the T20 World Cup 2022 to generate insights and create a data-driven analysis of the best 11 players.
 
 The project covers the following key steps:
