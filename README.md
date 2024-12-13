@@ -3,7 +3,7 @@
 
 # Project Overview
 
-In this project, I have worked on analyzing data from the T20 World Cup 2022 to generate insights and create a data-driven analysis of the best 11 players.
+This project focuses on leveraging data science techniques to analyze and generate insights from the T20 World Cup 2022. By applying a combination of web scraping, data cleaning, statistical analysis, and data visualization, the project aims to identify the best 11 players from the tournament, providing data-driven insights for team selection. The project combines both technical and analytical skills using Python (with pandas for data cleaning and transformation) and Power BI for visualizing the insights.
 
 # The project covers the following key steps:
 
