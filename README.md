@@ -5,7 +5,7 @@
 
 In this project, I have worked on analyzing data from the T20 World Cup 2022 to generate insights and create a data-driven analysis of the best 11 players.
 
-The project covers the following key steps:
+# The project covers the following key steps:
 
 1. Data Collection
 I gathered data from the T20 World Cup 2022 using web scraping techniques with the Bright Data platform. The data was sourced from ESPNcricinfo, a well-known platform for cricket statistics.
@@ -19,12 +19,13 @@ After cleaning the data, I delved into generating insights about the best 11 pla
 4. Dashboard Creation
 To present the findings, I created interactive dashboards using Power BI. These visualizations provide an easy way to understand and share the analysis results, helping to make the decision-making process clearer.
 
-Project Benefits
-Resume Enhancement: This project is an excellent addition to a data science resume. It showcases skills in data collection, cleaning, analysis, and visualization – all essential skills for any data scientist.
+# Project Benefits
 
-Guided Project: Although the project is structured to help beginners and advanced users, I have included all materials, code, and instructions so others can replicate the project easily.
+- Resume Enhancement: This project is an excellent addition to a data science resume. It showcases skills in data collection, cleaning, analysis, and visualization – all essential skills for any data scientist.
 
-Materials Included
+- Guided Project: Although the project is structured to help beginners and advanced users, I have included all materials, code, and instructions so others can replicate the project easily.
+
+# Materials Included
 The following materials are included in this project:
 
 Data Collection Script: The code used for scraping the T20 World Cup 2022 data from ESPNcricinfo.
@@ -35,14 +36,7 @@ Insights Generation Code: The Python code used for analyzing the data and identi
 
 Power BI Dashboards: Interactive dashboards that visually present the project’s results.
 
-How to Get Started
-To replicate this project on your own, follow these steps:
 
-Clone or download this repository to your local machine.
-
-Follow the instructions in the provided guides and scripts to set up and run the project.
-
-Use the Power BI dashboards to explore the insights and share them with others.
 
 Project Credits
 Author: Ahmed Khan
