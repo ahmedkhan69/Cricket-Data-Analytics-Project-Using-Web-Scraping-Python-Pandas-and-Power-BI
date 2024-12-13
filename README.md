@@ -19,6 +19,7 @@ After cleaning the data, I delved into generating insights about the best 11 pla
 4. Dashboard Creation
 To present the findings, I created interactive dashboards using Power BI. These visualizations provide an easy way to understand and share the analysis results, helping to make the decision-making process clearer.
 
+
 # Project Benefits
 
 - Resume Enhancement: This project is an excellent addition to a data science resume. It showcases skills in data collection, cleaning, analysis, and visualization – all essential skills for any data scientist.
@@ -38,7 +39,8 @@ Power BI Dashboards: Interactive dashboards that visually present the project’
 
 
 
-Project Credits
+# Project Credits
+
 Author: Ahmed Khan
 This project was done independently as part of my data Analyst portfolio to showcase my ability to handle real-world data, clean it, analyze it, and generate actionable insights.
 
