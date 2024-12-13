@@ -22,9 +22,11 @@ To present the findings, I created interactive dashboards using Power BI. These 
 
 # Project Benefits
 
-- Resume Enhancement: This project is an excellent addition to a data science resume. It showcases skills in data collection, cleaning, analysis, and visualization – all essential skills for any data scientist.
 
-- Guided Project: Although the project is structured to help beginners and advanced users, I have included all materials, code, and instructions so others can replicate the project easily.
+- Practical Experience: This project demonstrates hands-on experience in collecting and processing real-world data, transforming it, and using analysis to draw conclusions.
+- Skills Showcased: The project showcases skills in web scraping, data cleaning, statistical analysis, and data visualization – all essential competencies for a data scientist.
+- Resume Booster: Completing this project adds a powerful case study to your data science portfolio, enhancing your profile with a comprehensive data analytics project.
+
 
 # Materials Included
 The following materials are included in this project:
